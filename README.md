@@ -1,1 +1,1 @@
-Django portfolio website
+Django Personal blog website
